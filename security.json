@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/ilovemuhwagwa/kyokyo/main/security.yaml",
+    "url": "https://raw.githubusercontent.com/ilovemuhwagwa/kyokyo/main/security.yaml",
     "urls": [
         {
-            "url": "https://github.com/ilovemuhwagwa/kyokyo/main/security.yaml",
+            "url": "https://raw.githubusercontent.com/ilovemuhwagwa/kyokyo/main/security.yaml",
             "name": "hide"
         }
     ]
